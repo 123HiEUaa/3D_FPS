@@ -38,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://github.com/123HiEUaa/3D_FPS/blob/main/zombie.png"  />
 </div>
 
